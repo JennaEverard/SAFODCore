@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Explore the SAFOD Core</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/styles.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- webpage title header -->
+  <div class="top-header"> <h2>Explore the SAFOD Core</h2> </div>
+
+  <div class="container-fluid">
+    <div class="row flex-nowrap">
+
+      <!-- left-hand sidebar with logo and summary of SAFOD -->
+      <div class="col-auto col-md-3 col-xl-3 px-3 py-4 bg-light border-end fixed-sidebar">
+        <img src="images/safod_logo.png" class="img-fluid mb-4" alt="SAFOD logo">
+
+        <p>
+          The San Andreas Fault Observatory at Depth (SAFOD) project was established
+          in 1998 with the aim to improve our understanding of the San Andreas Fault.
+          It has succeeded as the first borehole to intercept regions of seismicity
+          at depth along a plate-boundary fault, with near complete recovery of
+          material from two active fault strands.
+        </p>
+
+        <p>
+          This application can be used to find information about each core section
+          and explore available samples.
+        </p>
+
+        <p><em>Last updated: January 2026</em></p>
+      </div>
+
+      <!-- right-hand content with information about core sections -->
+      <div class="col py-4 px-4">
+
+        <!-- Overview accordion - summarizes holes drilled with figure -->
+        <div class="accordion mb-4" id="overviewAccordion">
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingOverview">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOverview">Overview</button>
+            </h2>
+            <div id="collapseOverview" class="accordion-collapse collapse" data-bs-parent="#overviewAccordion">
+              <div class="accordion-body">
+                <img src="images/safod_holes.png" class="img-fluid mb-3" alt="SAFOD holes">
+                <p>
+                  Drilling of the SAFOD core was conducted in one pilot phase
+                  and three main phases:
+                </p>
+                <p><strong>
+                  1. Pilot Hole (2002):</strong> A 2.2 km vertical hole drilled
+                  near the planned SAFOD drill site.
+                </p>
+                <p><strong>
+                  2. Phase 1 (2004) &amp; Phase 2 (2005):</strong> The main hole
+                  was drilled vertically for the first 1.5 km and then at an angle
+                  of approx. 60 degrees from the vertical in order to intercept
+                  the full width of the San Andreas Fault near where microearthquakes
+                  were clustered (Hole C).
+                </p>
+                <p><strong>
+                  3. Phase 3 (2007):</strong> Three lateral sidetracks (Holes E
+                  and G) were drilled to intercept actively deforming zones of
+                  the San Andreas Fault.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hole C Accordion -->
+        <h3>Hole C</h3>
+        <div class="accordion mb-4" id="holeCAccordion">
+
+          <!-- Run 1 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingC1">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC1">
+                Run 1
+              </button>
+            </h2>
+            <div id="collapseC1" class="accordion-collapse collapse show" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <label for="C1" class="form-label">Choose a Section:</label>
+                <select id="C1" class="form-select mb-3"></select>
+                <div id="C1_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 2 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingC2">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC2">
+                Run 2
+              </button>
+            </h2>
+            <div id="collapseC2" class="accordion-collapse collapse" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <label for="C2" class="form-label">Choose a Section:</label>
+                <select id="C2" class="form-select mb-3"></select>
+                <div id="C2_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 3 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingC3">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC3">
+                Run 3
+              </button>
+            </h2>
+            <div id="collapseC3" class="accordion-collapse collapse" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <label for="C3" class="form-label">Choose a Section:</label>
+                <select id="C3" class="form-select mb-3"></select>
+                <div id="C3_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Core Catcher -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingCCC">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCCC">
+                Core Catcher (1/2/3)
+              </button>
+            </h2>
+            <div id="collapseCCC" class="accordion-collapse collapse" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <div id="CCC_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 4 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingC4">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC4">
+                Run 4
+              </button>
+            </h2>
+            <div id="collapseC4" class="accordion-collapse collapse" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <label for="C4" class="form-label">Choose a Section:</label>
+                <select id="C4" class="form-select mb-3"></select>
+                <div id="C4_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 5 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingC5">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC5">
+                Run 5
+              </button>
+            </h2>
+            <div id="collapseC5" class="accordion-collapse collapse" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <label for="C5" class="form-label">Choose a Section:</label>
+                <select id="C5" class="form-select mb-3"></select>
+                <div id="C5_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 7 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingC7">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC7">
+                Run 7
+              </button>
+            </h2>
+            <div id="collapseC7" class="accordion-collapse collapse" data-bs-parent="#holeCAccordion">
+              <div class="accordion-body">
+                <label for="C7" class="form-label">Choose a Section:</label>
+                <select id="C7" class="form-select mb-3"></select>
+                <div id="C7_content"></div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Hole E Accordion -->
+        <h3>Hole E</h3>
+        <div class="accordion mb-4" id="holeEAccordion">
+
+          <!-- Run 1 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingE1">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE1">
+                Run 1
+              </button>
+            </h2>
+            <div id="collapseE1" class="accordion-collapse collapse" data-bs-parent="#holeEAccordion">
+              <div class="accordion-body">
+                <label for="E1" class="form-label">Choose a Section:</label>
+                <select id="E1" class="form-select mb-3"></select>
+                <div id="E1_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 2 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingE2">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE2">
+                Run 2
+              </button>
+            </h2>
+            <div id="collapseE2" class="accordion-collapse collapse" data-bs-parent="#holeEAccordion">
+              <div class="accordion-body">
+                <label for="E2" class="form-label">Choose a Section:</label>
+                <select id="E2" class="form-select mb-3"></select>
+                <div id="E2_content"></div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Hole G Accordion -->
+        <h3>Hole G</h3>
+        <div class="accordion mb-4" id="holeGAccordion">
+
+          <!-- Run 1 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingG1">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseG1">
+                Run 1
+              </button>
+            </h2>
+            <div id="collapseG1" class="accordion-collapse collapse" data-bs-parent="#holeGAccordion">
+              <div class="accordion-body">
+                <label for="G1" class="form-label">Choose a Section:</label>
+                <select id="G1" class="form-select mb-3"></select>
+                <div id="G1_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 2 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingG2">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseG2">
+                Run 2
+              </button>
+            </h2>
+            <div id="collapseG2" class="accordion-collapse collapse" data-bs-parent="#holeGAccordion">
+              <div class="accordion-body">
+                <label for="G2" class="form-label">Choose a Section:</label>
+                <select id="G2" class="form-select mb-3"></select>
+                <div id="G2_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 3 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingG3">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseG3">
+                Run 3
+              </button>
+            </h2>
+            <div id="collapseG3" class="accordion-collapse collapse" data-bs-parent="#holeGAccordion">
+              <div class="accordion-body">
+                <label for="G3" class="form-label">Choose a Section:</label>
+                <select id="G3" class="form-select mb-3"></select>
+                <div id="G3_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 4 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingG4">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseG4">
+                Run 4
+              </button>
+            </h2>
+            <div id="collapseG4" class="accordion-collapse collapse" data-bs-parent="#holeGAccordion">
+              <div class="accordion-body">
+                <label for="G4" class="form-label">Choose a Section:</label>
+                <select id="G4" class="form-select mb-3"></select>
+                <div id="G4_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 5 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingG5">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseG5">
+                Run 5
+              </button>
+            </h2>
+            <div id="collapseG5" class="accordion-collapse collapse" data-bs-parent="#holeGAccordion">
+              <div class="accordion-body">
+                <label for="G5" class="form-label">Choose a Section:</label>
+                <select id="G5" class="form-select mb-3"></select>
+                <div id="G5_content"></div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Run 6 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingG6">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseG6">
+                Run 6
+              </button>
+            </h2>
+            <div id="collapseG6" class="accordion-collapse collapse" data-bs-parent="#holeGAccordion">
+              <div class="accordion-body">
+                <label for="G6" class="form-label">Choose a Section:</label>
+                <select id="G6" class="form-select mb-3"></select>
+                <div id="G6_content"></div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

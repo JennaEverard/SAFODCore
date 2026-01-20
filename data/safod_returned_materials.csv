@@ -1,0 +1,768 @@
+﻿ID,Section,Type,dist_from_top,Type_name,IGSN
+C1,1,0,8,TS,10.60471/ODP00003E
+C1,1,1,Unknown Location,rock,10.60471/ODP00008J
+C1,1,2,Unknown Location,powder,10.60471/ODP0000C8
+C1,2,0,10,TS,10.60471/ODP00003F
+C1,2,0,48,TS,10.60471/ODP00003G
+C1,2,0,61,TS,10.60471/ODP00003H
+C2,3,0,74,TS,10.60471/ODP00003I
+C2,4,1,0,rock,10.60471/ODP00008K
+C2,4,0,41,TS,10.60471/ODP00003J
+C2,5,0,36,TS,10.60471/ODP00003K
+C2,6,0,41,TS,10.60471/ODP00003L
+C3,7,0,0,TS,10.60471/ODP00003M
+C3,7,0,5,TS,10.60471/ODP00003N
+C3,8,0,48,TS,10.60471/ODP00003O
+C4,10,3,61,TS billets,10.60471/ODP0000CD
+C4,10,1,61,rock,10.60471/ODP00008L
+C4,11,0,48,TS,10.60471/ODP00003P
+C4,12,0,15,TS,10.60471/ODP00003Q
+C4,12,0,51,TS,10.60471/ODP00003R
+C4,13,0,43,TS,10.60471/ODP00003S
+C4,14,1,0,rock,10.60471/ODP00008M
+C4,14,0,0,TS,10.60471/ODP00003T
+C4,15,0,30,TS,10.60471/ODP00003U
+C4,15,0,89,TS,10.60471/ODP00003V
+C4,16,0,51,TS,10.60471/ODP00003W
+C4,16,0,71,TS,10.60471/ODP00003X
+C4,16,3,91,TS billets,10.60471/ODP0000CE
+C4,16,1,91,rock,10.60471/ODP00008N
+C4,16,1,Unknown Location,rock,10.60471/ODP00008O
+C4,17,0,30,TS,10.60471/ODP00003Y
+C4,17,3,61,TS billets,10.60471/ODP0000CF
+C4,17,1,61,rock,10.60471/ODP00008P
+C4,17,1,61,rock,10.60471/ODP00008Q
+C4,17,1,61,rock,10.60471/ODP00008R
+C4,17,1,91,rock,10.60471/ODP00008S
+C4,18,1,0,rock,10.60471/ODP00008T
+C4,18,3,0,TS billets,10.60471/ODP0000CG
+C4,18,0,30,TS,10.60471/ODP00003Z
+C4,18,2,Unknown Location,powder,10.60471/ODP0000C9
+C4,19,1,0,rock,10.60471/ODP00008U
+C4,19,0,81,TS,10.60471/ODP00004A
+C4,20,3,"10,055 ft absolute depth in SAFOD hole",TS billets,10.60471/ODP0000CH
+C4,20,1,"10,055 ft absolute depth in SAFOD hole",rock,10.60471/ODP00008V
+C5,21,0,"10,057.08 ft absolute depth in SAFOD hole",TS,10.60471/ODP00004B
+C5,21,3,"10,058 ft absolute depth in SAFOD hole",TS billets,10.60471/ODP0000CI
+C5,21,1,"10,058 ft absolute depth in SAFOD hole",rock,10.60471/ODP00008W
+C5,21,1,16-35 cm,rock,10.60471/ODP00008X
+C5,21,1,25-34 cm,rock,10.60471/ODP00008Y
+C5,21,1,30-38 cm,rock,10.60471/ODP00008Z
+C5,21,1,Unknown Location,rock,10.60471/ODP00009A
+C5,21,1,Unknown Location,rock,10.60471/ODP00009B
+C5,21,1,Unknown Location,rock,10.60471/ODP00009C
+C5,21,1,Unknown Location,rock,10.60471/ODP00009D
+C5,21,1,Unknown Location,rock,10.60471/ODP00009E
+C5,21,1,Unknown Location,rock,10.60471/ODP00009F
+C5,21,4,Unknown Location,mini core,10.60471/ODP0000BK
+C5,21,1,Unknown Location,rock,10.60471/ODP00009G
+C5,21,1,Unknown Location,rock,10.60471/ODP0000CA
+C5,22,1,"10,058 ft absolute depth in SAFOD hole",rock,10.60471/ODP00009H
+C5,22,0,10059.75 ft absolute depth in SAFOD hole,TS,10.60471/ODP00004C
+C5,23,1,"10,061 ft absolute depth in SAFOD hole",rock,10.60471/ODP00009I
+C5,23,1,"10,063 ft absolute depth in SAFOD hole",rock,10.60471/ODP00009J
+C5,23,3,"10,063 ft absolute depth in SAFOD hole",TS billets,10.60471/ODP0000CJ
+C7,1,3,14,TS billets,10.60471/ODP0000CK
+C7,1,0,14,TS,10.60471/ODP00004D
+C7,1,3,55,TS billets,10.60471/ODP0000CL
+C7,1,0,55,TS,10.60471/ODP00004E
+C7,1,1,Unknown Location,rock,10.60471/ODP00009K
+C7,2,3,0,TS billets,10.60471/ODP0000CM
+C7,2,0,0,TS,10.60471/ODP00004F
+C7,2,3,2,TS billets,10.60471/ODP0000CN
+C7,2,3,32,TS billets,10.60471/ODP0000CO
+C7,2,0,32,TS,10.60471/ODP00004G
+C7,2,4,76,mini core,10.60471/ODP0000BL
+C7,2,4,85,mini core,10.60471/ODP0000BM
+C7,2,3,88,TS billets,10.60471/ODP0000CP
+C7,2,0,88,TS,10.60471/ODP00004H
+C7,2,1,Unknown Location,rock,10.60471/ODP00009L
+C7,3,0,43,TS,10.60471/ODP00004I
+C7,3,3,43,TS billets,10.60471/ODP0000CQ
+C7,3,4,61,mini core,10.60471/ODP0000BN
+C7,3,4,65,mini core,10.60471/ODP0000BO
+C7,3,4,77,mini core,10.60471/ODP0000BP
+C7,3,3,84,TS billets,10.60471/ODP0000CR
+C7,3,3,88,TS billets,10.60471/ODP0000CS
+C7,3,0,88,TS,10.60471/ODP00004J
+C7,3,4,Unknown Location,mini core,10.60471/ODP0000BQ
+C7,3,4,Unknown Location,mini core,10.60471/ODP0000BR
+C7,4,3,23,TS billets,10.60471/ODP0000CT
+C7,4,0,23,TS,10.60471/ODP00004K
+C7,4,1,24,rock,10.60471/ODP00009M
+C7,4,3,43,TS billets,10.60471/ODP0000CU
+C7,4,3,43,TS billets,10.60471/ODP0000CV
+C7,4,0,43,TS,10.60471/ODP00004L
+C7,4,3,60,TS billets,10.60471/ODP0000CW
+C7,4,0,65,TS,10.60471/ODP00004M
+C7,4,1,Unknown Location,rock,10.60471/ODP00009N
+C7,4,4,Unknown Location,mini core,10.60471/ODP0000BS
+E1,1,1,31-35 cm,rock,10.60471/ODP00009O
+E1,1,3,37-41 cm,TS billets,10.60471/ODP0000CX
+E1,1,2,56-61 cm,powder,10.60471/ODP0000CB
+E1,1,0,63,TS,10.60471/ODP00004N
+E1,1,3,63,TS billets,10.60471/ODP0000CY
+E1,1,1,Unknown Location,rock,10.60471/ODP00009P
+E1,2,0,0-1 cm,TS,10.60471/ODP00004O
+E1,2,4,21-25 cm,mini core,10.60471/ODP0000BT
+E1,2,4,24-31 cm,mini core,10.60471/ODP0000BU
+E1,2,1,31.5-36.5 cm,rock,10.60471/ODP00009Q
+E1,2,3,35-42 cm,TS billets,10.60471/ODP0000CZ
+E1,2,3,62-66 cm,TS billets,10.60471/ODP0000D0
+E1,2,0,67,TS,10.60471/ODP00004P
+E1,2,1,Unknown Location,rock,10.60471/ODP00009R
+E1,3,3,33-37 cm,TS billets,10.60471/ODP0000D1
+E1,3,1,50,rock,10.60471/ODP00009S
+E1,3,0,80,TS,10.60471/ODP00004Q
+E1,3,1,80-82 cm,rock,10.60471/ODP00009T
+E1,3,3,83-88 cm,TS billets,10.60471/ODP0000D2
+E1,4,1,45,rock,10.60471/ODP00009U
+E1,4,1,46,rock,10.60471/ODP00009V
+E1,4,1,52,rock,10.60471/ODP00009W
+E1,4,1,52-56 cm,rock,10.60471/ODP00009X
+E1,4,1,56,rock,10.60471/ODP00009Y
+E1,4,1,71,rock,10.60471/ODP00009Z
+E1,4,1,Bottom of Section,rock,10.60471/ODP0000A0
+E1,5,1,Top of Section,rock,10.60471/ODP0000A1
+E1,5,1,Top of Section,rock,10.60471/ODP0000A2
+E1,5,1,0-3 cm,rock,10.60471/ODP0000A3
+E1,5,0,5,TS,10.60471/ODP00004R
+E1,5,3,5,TS billets,10.60471/ODP0000D3
+E1,5,1,5,rock,10.60471/ODP0000A4
+E1,5,1,5,rock,10.60471/ODP0000A5
+E1,5,1,22,rock,10.60471/ODP0000A6
+E1,5,1,28,rock,10.60471/ODP0000A7
+E1,5,1,36,rock,10.60471/ODP0000A8
+E1,5,1,50-52 cm,rock,10.60471/ODP0000A9
+E1,5,3,79-87 cm,TS billets,10.60471/ODP0000D4
+E1,5,1,Unknown Location,rock,10.60471/ODP0000AA
+E1,5,1,Top and Bottom of Section,rock,10.60471/ODP0000AB
+E1,6,1,Unknown Location,rock,10.60471/ODP0000AC
+E1,6,1,9,rock,10.60471/ODP0000AD
+E1,6,0,10,TS,10.60471/ODP00004S
+E1,6,1,17-20 cm,rock,10.60471/ODP0000AE
+E1,6,1,20-25 cm,rock,10.60471/ODP0000AF
+E1,6,1,25,rock,10.60471/ODP0000AG
+E1,6,1,30.5,rock,10.60471/ODP0000AH
+E1,6,1,40,rock,10.60471/ODP0000AI
+E1,6,3,40-45 cm,TS billets,10.60471/ODP0000D5
+E1,6,1,40-45 cm,rock,10.60471/ODP0000AJ
+E1,6,1,40-45 cm,rock,10.60471/ODP0000AK
+E1,6,0,43,TS,10.60471/ODP00004T
+E1,6,0,43,TS,10.60471/ODP00004U
+E1,6,0,43,TS,10.60471/ODP00004V
+E1,6,0,43,TS,10.60471/ODP00004W
+E1,6,0,43,TS,10.60471/ODP00004X
+E1,6,0,43,TS,10.60471/ODP00004Y
+E1,6,1,45.5,rock,10.60471/ODP0000AL
+E1,6,1,65-67 cm,rock,10.60471/ODP0000AM
+E1,6,1,71,rock,10.60471/ODP0000AN
+E1,6,1,89,rock,10.60471/ODP0000AO
+E1,6,1,Unknown Location,rock,10.60471/ODP0000AP
+E1,6,1,Unknown Location,rock,10.60471/ODP0000AQ
+E1,7,1,Top of Section,rock,10.60471/ODP0000AR
+E1,7,1,42,rock,10.60471/ODP0000AS
+E1,7,1,72,rock,10.60471/ODP0000AT
+E1,7,4,Unknown Location,mini core,10.60471/ODP0000BV
+E1,7,4,Unknown Location,mini core,10.60471/ODP0000BW
+E1,7,4,Unknown Location,mini core,10.60471/ODP0000BX
+E1,7,1,Unknown Location,rock,10.60471/ODP0000AU
+E1,8,1,18,rock,10.60471/ODP0000AV
+E1,8,1,35,rock,10.60471/ODP0000AW
+E1,8,3,35,TS billets,10.60471/ODP0000D6
+E1,8,1,53,rock,10.60471/ODP0000AX
+E2,1,1,10,rock,10.60471/ODP0000AY
+E2,1,1,38,rock,10.60471/ODP0000AZ
+E2,1,1,74.5-76 cm,rock,10.60471/ODP0000B0
+E2,1,1,79,rock,10.60471/ODP0000B1
+E2,1,1,Unknown Location,rock,10.60471/ODP0000B2
+E2,1,1,Bottom of Section,rock,10.60471/ODP0000B3
+E2,1,1,Bottom of Section,rock,10.60471/ODP0000B4
+E2,2,3,28-36 cm,TS billets,10.60471/ODP0000D7
+E2,2,1,32,rock,10.60471/ODP0000B5
+E2,2,1,43,rock,10.60471/ODP0000B6
+E2,2,1,80-89 cm,rock,10.60471/ODP0000CC
+E2,2,1,Unknown Location,rock,10.60471/ODP0000B7
+E2,2,1,Unknown Location,rock,10.60471/ODP0000B8
+E2,2,1,Bottom of Section,rock,10.60471/ODP0000B9
+E2,3,1,54.5-57.5 cm,rock,10.60471/ODP0000BA
+E2,4,1,63,rock,10.60471/ODP0000BB
+E2,4,1,79-82 cm,rock,10.60471/ODP0000BC
+E2,4,1,Unknown Location,rock,10.60471/ODP0000BD
+E2,5,1,Top of Section,rock,10.60471/ODP0000BE
+E2,5,1,15,rock,10.60471/ODP0000BF
+E2,5,1,Unknown Location,rock,10.60471/ODP0000BG
+E2,5,1,Bottom of Section,rock,10.60471/ODP0000BH
+E2,5,1,Bottom of Section,rock,10.60471/ODP0000BI
+E2,5,1,Bottom of Section,rock,10.60471/ODP0000BJ
+G1,1,1,Top of Section,rock,
+G1,1,1,Top of Section,rock,
+G1,1,1,6-9 cm,rock,
+G1,1,1,22-25 cm,rock,
+G1,1,1,31-34 cm,rock,
+G1,1,1,44-48 cm,rock,
+G1,1,1,45-80 cm,rock,
+G1,1,1,50-51.5 cm,rock,
+G1,1,1,51,rock,
+G1,1,1,55,rock,
+G1,1,3,57,TS billets,
+G1,1,3,57,TS billets,
+G1,1,0,57,TS,10.60471/ODP00004Z
+G1,1,1,64-68 cm,rock,
+G1,1,2,71,powder,
+G1,1,0,71,TS,10.60471/ODP00005A
+G1,1,1,Unknown Location,rock,
+G1,2,1,Top of Section,rock,
+G1,2,1,0-3.5 cm,rock,
+G1,2,3,4-9 cm,TS billets,
+G1,2,1,17,rock,
+G1,2,1,30-34 cm,rock,
+G1,2,3,35.5-40 cm,TS billets,
+G1,2,3,35.5-40 cm,TS billets,
+G1,2,1,36-39 cm,rock,
+G1,2,1,50-53 cm,rock,
+G1,2,1,57,rock,
+G1,2,1,58-62 cm,rock,
+G1,2,1,60,rock,
+G1,2,1,Unknown Location,rock,
+G1,3,1,0-26 cm,rock,
+G1,3,2,2-7 cm,powder,
+G1,3,3,2-7 cm,TS billets,
+G1,3,1,7,rock,
+G1,3,1,41-42 cm,rock,
+G1,3,1,41-42 cm,rock,
+G1,3,1,41-43 cm,rock,
+G1,3,1,41-43 cm,rock,
+G1,3,1,41-45 cm,rock,
+G1,3,1,42,rock,
+G1,3,3,50,TS billets,
+G1,3,3,50,TS billets,
+G1,3,0,50,TS,10.60471/ODP00005B
+G1,3,1,56,rock,
+G1,3,1,78,rock,
+G1,3,1,88-90 cm,rock,
+G1,3,1,Unknown Location,rock,
+G1,3,1,Bottom of Section,rock,
+G1,4,1,15,rock,
+G1,4,1,41,rock,
+G1,4,1,48,rock,
+G1,4,1,73-77 cm,rock,
+G1,4,2,85,powder,
+G1,4,1,Unknown Location,rock,
+G1,5,1,43-48 cm,rock,
+G1,5,1,46-49 cm,rock,
+G1,5,1,52,rock,
+G1,5,1,52,rock,
+G1,5,1,Unknown Location,rock,
+G1,5,1,Unknown Location,rock,
+G1,5,1,Bottom of Section,rock,
+G1,5,1,Bottom of Section,rock,
+G1,6,1,Top of Section,rock,
+G1,6,0,0,TS,10.60471/ODP00005C
+G1,6,3,0,TS billets,
+G1,6,1,19-22 cm,rock,
+G1,6,1,26,rock,
+G2,1,1,12,rock,
+G2,1,1,20,rock,
+G2,1,1,50,rock,
+G2,1,1,55,rock,
+G2,1,1,83-90 cm,rock,
+G2,1,3,Unknown Location,TS billets,
+G2,2,3,12,TS billets,
+G2,2,3,12,TS billets,
+G2,2,0,12,TS,10.60471/ODP00005D
+G2,2,1,19-22 cm,rock,
+G2,2,1,19-22 cm,rock,
+G2,2,1,19-22 cm,rock,
+G2,2,3,19-22 cm,TS billets,
+G2,2,2,42,powder,
+G2,2,1,45,rock,
+G2,2,1,75,rock,
+G2,2,1,75-83 cm,rock,
+G2,2,1,79,rock,
+G2,2,1,79,rock,
+G2,2,0,79,TS,10.60471/ODP00005E
+G2,2,0,79,TS,10.60471/ODP00005F
+G2,2,1,81-83 cm,rock,
+G2,3,1,6,rock,
+G2,3,1,6-9.5 cm,rock,
+G2,3,1,14-21 cm,rock,
+G2,3,3,14-21.5 cm,TS billets,
+G2,3,1,44.5,rock,
+G2,3,1,87,rock,
+G2,3,2,Unknown Location,powder,
+G2,3,3,Unknown Location,TS billets,
+G2,3,4,Unknown Location,mini core,10.60471/ODP0000BY
+G2,3,3,Unknown Location,TS billets,
+G2,3,1,Bottom of Section,rock,
+G2,4,2,0,powder,
+G2,4,0,26,TS,10.60471/ODP00005G
+G2,4,0,26,TS,10.60471/ODP00005H
+G2,4,0,26,TS,10.60471/ODP00005I
+G2,4,0,26,TS,10.60471/ODP00005J
+G2,4,0,26,TS,10.60471/ODP00005K
+G2,4,3,31-35 cm,TS billets,
+G2,4,0,32,TS,10.60471/ODP00005L
+G2,4,1,32,rock,
+G2,4,1,35-40 cm,rock,
+G2,4,3,Unknown Location,TS billets,
+G2,5,1,1,rock,
+G2,5,3,22,TS billets,
+G2,5,0,22,TS,10.60471/ODP00005M
+G2,5,2,28-30 cm,powder,
+G2,5,0,34,TS,10.60471/ODP00005N
+G2,5,0,34,TS,10.60471/ODP00005O
+G2,5,0,34,TS,10.60471/ODP00005P
+G2,5,1,39-43 cm,rock,
+G2,5,1,52,rock,
+G2,5,1,70,rock,
+G2,5,1,Unknown Location,rock,
+G2,6,1,7,rock,
+G2,6,1,7-15.5 cm,rock,
+G2,6,2,7-15.5 cm,powder,
+G2,6,1,23.5-27.5 cm,rock,
+G2,6,1,27,rock,
+G2,6,3,60-62 cm,TS billets,
+G2,6,3,60-62 cm,TS billets,
+G2,6,3,61,TS billets,
+G2,6,3,61,TS billets,
+G2,6,1,61-72 cm,rock,
+G2,6,1,61-70 cm,rock,
+G2,6,1,62,rock,
+G2,6,3,86-90 cm,TS billets,
+G2,6,3,86-90 cm,TS billets,
+G2,6,3,Unknown Location,TS billets,
+G2,6,1,Bottom of Section,rock,
+G2,7,2,0-5.5 cm,powder,
+G2,7,1,6,rock,
+G2,7,2,8,powder,
+G2,7,3,8,TS billets,
+G2,7,1,10 - 34 cm,rock,
+G2,7,3,23-25 cm,TS billets,
+G2,7,3,23-25 cm,TS billets,
+G2,7,1,26,rock,
+G2,7,1,26-33 cm,rock,
+G2,7,1,35,rock,
+G2,7,1,35-38 cm,rock,
+G2,7,1,40,rock,
+G2,7,1,58,rock,
+G2,7,0,60,TS,10.60471/ODP00005Q
+G2,7,2,60,powder,
+G2,7,2,60,powder,
+G2,7,2,63,powder,
+G2,7,2,63,powder,
+G2,7,2,63,powder,
+G2,7,2,63,powder,
+G2,7,3,63,TS billets,
+G2,7,0,63,TS,10.60471/ODP00005R
+G2,7,0,63,TS,10.60471/ODP00005S
+G2,7,0,63,TS,10.60471/ODP00005T
+G2,7,0,66,TS,10.60471/ODP00005U
+G2,7,0,66,TS,10.60471/ODP00005V
+G2,7,1,67-68 cm,rock,
+G2,7,1,67-77 cm,rock,
+G2,7,3,68,TS billets,
+G2,7,3,68,TS billets,
+G2,7,2,69-72 cm,powder,
+G2,7,1,73-86 cm,rock,
+G2,7,1,76,rock,
+G2,7,1,76-77 cm,rock,
+G2,7,1,76-86 cm,rock,
+G2,7,2,81,powder,
+G2,7,3,87,TS billets,
+G2,7,3,Unknown Location,TS billets,
+G2,7,1,Bottom of Section,rock,
+G2,7,1,Bottom of Section,rock,
+G2,7,1,Bottom of Section,rock,
+G2,7,1,Bottom of Section,rock,
+G2,7,1,Bottom of Section,rock,
+G2,8,3,7-13 cm,TS billets,
+G2,8,3,7-13 cm,TS billets,
+G2,8,3,32,TS billets,
+G2,8,1,38-42 cm,rock,
+G2,8,1,38-42 cm,rock,
+G2,8,0,44,TS,10.60471/ODP00005W
+G2,8,3,45-51 cm,TS billets,
+G2,8,3,47,TS billets,
+G2,8,3,47,TS billets,
+G2,8,2,47,powder,
+G2,8,1,51-55 cm,rock,
+G2,8,3,Unknown Location,TS billets,
+G2,8,1,Bottom of Section,rock,
+G2,8,1,Bottom of Section,rock,
+G2,8,1,Bottom of Section,rock,
+G2,8,1,Bottom of Section,rock,
+G2,9,0,4,TS,10.60471/ODP00005X
+G2,9,3,5-14 cm,TS billets,
+G2,9,3,5-14 cm,TS billets,
+G2,9,2,6-11.5 cm,powder,
+G2,9,0,7,TS,10.60471/ODP00005Y
+G2,9,0,7,TS,10.60471/ODP00005Z
+G2,9,0,7,TS,10.60471/ODP00006A
+G2,9,0,9,TS,10.60471/ODP00006B
+G2,9,0,9,TS,10.60471/ODP00006C
+G2,9,0,9,TS,10.60471/ODP00006D
+G2,9,0,10,TS,10.60471/ODP00006E
+G2,9,3,14-16 cm,TS billets,
+G2,9,1,Unknown Location,rock,
+G2,9,2,Unknown Location,powder,
+G2,9,3,Unknown Location,TS billets,
+G3,1,1,Top of Section,rock,
+G3,1,3,0-3 cm,TS billets,
+G3,1,3,0-3 cm,TS billets,
+G3,1,1,0-8 cm,rock,
+G3,1,1,5,rock,
+G3,1,1,20-25 cm,rock,
+G3,1,1,20-25 cm,rock,
+G3,1,2,22-27 cm,powder,
+G3,1,3,22-27 cm,TS billets,
+G3,1,3,22-27 cm,TS billets,
+G3,1,3,26-32 cm,TS billets,
+G3,1,1,29-33 cm,rock,
+G3,1,1,32-36 cm,rock,
+G3,1,1,34,rock,
+G3,1,1,37-41 cm,rock,
+G3,1,0,38,TS,10.60471/ODP00006F
+G3,1,0,41,TS,10.60471/ODP00006G
+G3,1,1,41-46 cm,rock,
+G3,1,1,41-46 cm,rock,
+G3,1,3,41-46 cm,TS billets,
+G3,1,0,42,TS,10.60471/ODP00006H
+G3,1,1,44-46 cm,rock,
+G3,1,1,44-49 cm,rock,
+G3,1,3,57,TS billets,
+G3,1,3,57,TS billets,
+G3,1,1,59,rock,
+G3,1,1,62-64 cm,rock,
+G3,1,2,62-64 cm,powder,
+G3,1,3,62-64 cm,TS billets,
+G3,1,1,Unknown Location,rock,
+G3,1,1,Unknown Location,rock,
+G3,1,1,Unknown Location,rock,
+G3,1,1,Bottom of Section,rock,
+G3,2,1,Top of Section,rock,
+G3,2,2,0-3 cm,powder,
+G3,2,1,8,rock,
+G3,2,1,12.5,rock,
+G3,2,0,15,TS,10.60471/ODP00006I
+G3,2,0,15,TS,10.60471/ODP00006J
+G3,2,1,19.5,rock,
+G3,2,1,Bottom of Section,rock,
+G3,2,1,Bottom of Section,rock,
+G4,1,1,Top of Section,rock,
+G4,1,1,Top of Section,rock,
+G4,1,1,11,rock,
+G4,1,1,14,rock,
+G4,1,1,25-35 cm,rock,
+G4,1,1,26-32 cm,rock,
+G4,1,4,30-32 cm,mini core,10.60471/ODP0000BZ
+G4,1,1,33,rock,
+G4,1,1,34-37 cm,rock,
+G4,1,1,34-37 cm,rock,
+G4,1,3,34-37 cm,TS billets,
+G4,1,3,35,TS billets,
+G4,1,3,35,TS billets,
+G4,1,0,35,TS,10.60471/ODP00006K
+G4,1,3,60-64 cm,TS billets,
+G4,1,2,61-67 cm,powder,
+G4,1,3,61-67 cm,TS billets,
+G4,1,3,61-67 cm,TS billets,
+G4,1,0,63,TS,10.60471/ODP00006L
+G4,1,0,63,TS,10.60471/ODP00006M
+G4,1,0,63,TS,10.60471/ODP00006N
+G4,2,1,0-6 cm,rock,
+G4,2,1,2-5 cm,rock,
+G4,2,1,2-5 cm,rock,
+G4,2,2,2-5 cm,powder,
+G4,2,4,4-7 cm,mini core,10.60471/ODP0000C0
+G4,2,4,4-8 cm,mini core,10.60471/ODP0000C1
+G4,2,0,5,TS,10.60471/ODP00006O
+G4,2,3,5,TS billets,
+G4,2,3,5,TS billets,
+G4,2,2,7.5-11 cm,powder,
+G4,2,1,12-17 cm,rock,
+G4,2,1,20-26 cm,rock,
+G4,2,3,20.5-27 cm,TS billets,
+G4,2,0,22,TS,10.60471/ODP00006P
+G4,2,3,35-37 cm,TS billets,
+G4,2,3,35-37 cm,TS billets,
+G4,2,1,52-58 cm,rock,
+G4,2,3,56-58 cm,TS billets,
+G4,2,3,56-58 cm,TS billets,
+G4,2,1,60-66 cm,rock,
+G4,2,1,63,rock,
+G4,2,1,66-71 cm,rock,
+G4,2,1,66-71 cm,rock,
+G4,2,1,70-71 cm,rock,
+G4,2,3,75-81.5 cm,TS billets,
+G4,2,0,82,TS,10.60471/ODP00006Q
+G4,2,2,82.5-88 cm,powder,
+G4,2,1,88,rock,
+G4,2,1,Unknown Location,rock,
+G4,2,1,Unknown Location,rock,
+G4,2,1,Bottom of Section,rock,
+G4,3,3,0-3 cm,TS billets,
+G4,3,0,2.5,TS,10.60471/ODP00006R
+G4,3,0,2.5,TS,10.60471/ODP00006S
+G4,3,3,9,TS billets,
+G4,3,3,12,TS billets,
+G4,3,3,18-20 cm,TS billets,
+G4,3,1,18-20 cm,rock,
+G4,3,1,20-27 cm,rock,
+G4,3,1,20-27 cm,rock,
+G4,3,4,20-27 cm,mini core,10.60471/ODP0000C2
+G4,3,2,27-31 cm,powder,
+G4,3,3,27-32 cm,TS billets,
+G4,3,0,30,TS,10.60471/ODP00006T
+G4,3,3,32-33 cm,TS billets,
+G4,3,3,45,TS billets,
+G4,3,3,51,TS billets,
+G4,3,2,54.5-58 cm,powder,
+G4,3,1,70,rock,
+G4,3,1,79-84 cm,rock,
+G4,3,1,82,rock,
+G4,3,0,83,TS,10.60471/ODP00006U
+G4,3,1,83.8-84.2 cm,rock,
+G4,3,3,83.5-88 cm,TS billets,
+G4,3,1,83.5-88 cm,rock,
+G4,4,1,6-17 cm,rock,
+G4,4,1,7.5-11 cm,rock,
+G4,4,0,11,TS,10.60471/ODP00006V
+G4,4,0,11,TS,10.60471/ODP00006W
+G4,4,0,11,TS,10.60471/ODP00006X
+G4,4,0,11,TS,10.60471/ODP00006Y
+G4,4,1,13-18 cm,rock,
+G4,4,3,13-18 cm,TS billets,
+G4,4,1,20,rock,
+G4,4,1,29,rock,
+G4,4,0,29,TS,10.60471/ODP00006Z
+G4,4,1,31-37 cm,rock,
+G4,4,4,31-37 cm,mini core,10.60471/ODP0000C3
+G4,4,2,38-41 cm,powder,
+G4,4,2,44-47 cm,powder,
+G4,4,1,46-47 cm,rock,
+G4,4,1,51,rock,
+G4,4,1,51,rock,
+G4,4,4,70-72 cm,mini core,10.60471/ODP0000C4
+G4,4,1,74-78 cm,rock,
+G4,4,1,82-86 cm,rock,
+G4,4,1,96,rock,
+G4,4,4,Unknown Location,mini core,10.60471/ODP0000C5
+G4,4,3,Unknown Location,TS billets,
+G4,4,1,Unknown Location,rock,
+G4,4,1,Unknown Location,rock,
+G4,5,1,Top of Section,rock,
+G4,5,3,13-17 cm,TS billets,
+G4,5,1,14-20 cm,rock,
+G4,5,1,14-20 cm,rock,
+G4,5,3,14-20 cm,TS billets,
+G4,5,1,21-27 cm,rock,
+G4,5,4,21-27 cm,mini core,10.60471/ODP0000C6
+G4,5,4,21-27 cm,mini core,10.60471/ODP0000C7
+G4,5,1,31-34 cm,rock,
+G4,5,2,31-34 cm,powder,
+G4,5,3,32-33 cm,TS billets,
+G4,5,1,36-41 cm,rock,
+G4,5,3,41-48 cm,TS billets,
+G4,5,0,56,TS,10.60471/ODP00007A
+G4,5,0,56,TS,10.60471/ODP00007B
+G4,5,0,56,TS,10.60471/ODP00007C
+G4,5,0,58,TS,10.60471/ODP00007D
+G4,5,0,59,TS,10.60471/ODP00007E
+G4,5,2,59-62.5 cm,powder,
+G4,5,1,61,rock,
+G4,5,0,61,TS,10.60471/ODP00007F
+G4,5,1,64-67 cm,rock,
+G4,5,3,67,TS billets,
+G4,5,1,69.5-73 cm,rock,
+G4,5,3,69.5-73 cm,TS billets,
+G4,5,1,72,rock,
+G4,5,3,77,TS billets,
+G4,5,3,77-79 cm,TS billets,
+G4,5,3,77-79 cm,TS billets,
+G4,5,0,78,TS,10.60471/ODP00007G
+G4,5,0,80,TS,10.60471/ODP00007H
+G4,5,1,Unknown Location,rock,
+G4,6,0,0,TS,10.60471/ODP00007I
+G4,6,0,0,TS,10.60471/ODP00007J
+G4,6,0,0,TS,10.60471/ODP00007K
+G4,6,1,12,rock,
+G4,6,3,13-17 cm,TS billets,
+G4,6,1,15-21 cm,rock,
+G4,6,3,15-21 cm,TS billets,
+G4,6,1,20,rock,
+G4,6,2,27.5-31 cm,powder,
+G4,6,0,37,TS,10.60471/ODP00007L
+G4,6,0,49,TS,10.60471/ODP00007M
+G4,6,0,49,TS,10.60471/ODP00007N
+G4,6,1,61,rock,
+G4,6,1,Unknown Location,rock,
+G4,6,1,Unknown Location,rock,
+G4,6,1,Unknown Location,rock,
+G4,7,1,10,rock,
+G4,7,0,21,TS,10.60471/ODP00007O
+G4,7,1,21.5-24.5 cm,rock,
+G4,7,1,22-25 cm,rock,
+G4,7,2,22.5-25.5 cm,powder,
+G4,7,1,24-25 cm,rock,
+G4,7,1,Unknown Location,rock,
+G4,7,1,Bottom of Section,rock,
+G5,1,1,18-23 cm,rock,
+G5,1,3,19-23 cm,TS billets,
+G5,1,1,20,rock,
+G5,1,3,20,TS billets,
+G5,1,0,20,TS,10.60471/ODP00007P
+G5,1,1,47-56 cm,rock,
+G5,1,1,48-54 cm,rock,
+G5,1,1,76,rock,
+G5,1,1,76,rock,
+G5,1,1,76-77 cm,rock,
+G5,1,3,76-81 cm,TS billets,
+G5,1,0,81,TS,10.60471/ODP00007Q
+G5,1,1,86.5-88.5 cm,rock,
+G5,1,1,Unknown Location,rock,
+G5,2,1,4,rock,
+G5,2,3,4.5-10 cm,TS billets,
+G5,2,3,5,TS billets,
+G5,2,0,5,TS,10.60471/ODP00007R
+G5,2,1,7.5-12 cm,rock,
+G5,2,1,7.5-12 cm,rock,
+G5,2,3,7.5-12 cm,TS billets,
+G5,2,3,8,TS billets,
+G5,2,0,8,TS,10.60471/ODP00007S
+G5,2,1,23,rock,
+G5,2,1,43.5-48.5 cm,rock,
+G5,2,1,43.5-48.5 cm,rock,
+G5,2,1,48-53 cm,rock,
+G5,2,1,54,rock,
+G5,2,3,54,TS billets,
+G5,2,0,54,TS,10.60471/ODP00007T
+G5,2,1,64-71 cm,rock,
+G5,2,1,Unknown Location,rock,
+G5,2,1,Unknown Location,rock,
+G5,2,1,Unknown Location,rock,
+G5,2,1,Unknown Location,rock,
+G5,3,1,10-20 cm,rock,
+G5,3,1,39-47 cm,rock,
+G5,3,1,45-47 cm,rock,
+G5,3,1,45-47 cm,rock,
+G5,3,0,78,TS,10.60471/ODP00007U
+G5,3,3,78,TS billets,
+G5,3,1,Unknown Location,rock,
+G5,4,1,20,rock,
+G5,4,1,20-24 cm,rock,
+G5,4,1,25,rock,
+G5,4,1,26-32 cm,rock,
+G5,4,1,30,rock,
+G5,4,1,40-50 cm,rock,
+G5,4,1,42,rock,
+G5,4,1,50-70 cm,rock,
+G5,4,1,57,rock,
+G5,4,1,58-62 cm,rock,
+G5,4,1,58-62 cm,rock,
+G5,4,1,80-90 cm,rock,
+G5,4,1,Unknown Location,rock,
+G5,4,1,Unknown Location,rock,
+G5,5,1,Top of Section,rock,
+G5,5,1,Top of Section,rock,
+G5,5,1,47-51 cm,rock,
+G5,5,1,Unknown Location,rock,
+G5,5,1,Unknown Location,rock,
+G5,5,1,Bottom of Section,rock,
+G5,6,1,16-25 cm,rock,
+G5,6,1,16-25 cm,rock,
+G5,6,3,16-25 cm,TS billets,
+G5,6,0,24,TS,10.60471/ODP00007V
+G5,6,1,51-44 cm,rock,
+G5,6,1,Unknown Location,rock,
+G5,6,1,Unknown Location,rock,
+G5,6,1,Unknown Location,rock,
+G5,6,1,Bottom of Section,rock,
+G5,7,1,Top of Section,rock,
+G5,7,1,0-8 cm,rock,
+G5,7,1,0-19 cm,rock,
+G5,7,1,17,rock,
+G5,7,1,37,rock,
+G5,7,1,185,rock,
+G5,7,1,Unknown Location,rock,
+G5,7,1,Unknown Location,rock,
+G5,7,1,Unknown Location,rock,
+G5,7,1,Unknown Location,rock,
+G5,7,1,Unknown Location,rock,
+G5,7,1,Unknown Location,rock,
+G5,7,1,Bottom of Section,rock,
+G6,1,1,Top of Section,rock,
+G6,1,1,Top of Section,rock,
+G6,1,1,Top of Section,rock,
+G6,1,2,0,powder,
+G6,1,1,0-28 cm,rock,
+G6,1,1,28-42 cm,rock,
+G6,1,1,42-53 cm,rock,
+G6,1,1,77,rock,
+G6,1,1,77,rock,
+G6,1,1,Unknown Location,rock,
+G6,1,1,Unknown Location,rock,
+G6,1,1,Bottom of Section,rock,
+G6,2,1,Top of Section,rock,
+G6,2,1,0-20 cm,rock,
+G6,2,1,15,rock,
+G6,2,1,20-50 cm,rock,
+G6,2,1,35,rock,
+G6,2,1,50-80 cm,rock,
+G6,2,1,54,rock,
+G6,2,1,54,rock,
+G6,2,1,55,rock,
+G6,2,1,84,rock,
+G6,2,1,Unknown Location,rock,
+G6,2,1,Unknown Location,rock,
+G6,2,1,Unknown Location,rock,
+G6,2,1,Bottom of Section,rock,
+G6,2,1,Bottom of Section,rock,
+G6,3,1,Top of Section,rock,
+G6,3,1,Top of Section,rock,
+G6,3,1,0-4 cm,rock,
+G6,3,1,3-4 cm,rock,
+G6,3,1,7-8 cm,rock,
+G6,3,2,8-12.5 cm,powder,
+G6,3,1,15-17 cm,rock,
+G6,3,1,34-39 cm,rock,
+G6,3,1,34-39 cm,rock,
+G6,3,3,34-39 cm,TS billets,
+G6,3,1,36,rock,
+G6,3,0,39,TS,10.60471/ODP00007W
+G6,3,1,60,rock,
+G6,3,1,62,rock,
+G6,3,1,80,rock,
+G6,3,1,97,rock,
+G6,3,1,Unknown Location,rock,
+G6,4,1,0-28 cm,rock,
+G6,4,1,19-26 cm,rock,
+G6,4,1,25,rock,
+G6,4,1,28-50 cm,rock,
+G6,4,0,37,TS,10.60471/ODP00007X
+G6,4,1,50  cm-bottom,rock,
+G6,4,1,55-57 cm,rock,
+G6,4,1,Unknown Location,rock,
+G6,4,1,Bottom of Section,rock,
+G6,5,1,0-20 cm,rock,
+G6,5,1,0-23 cm,rock,
+G6,5,1,20-50 cm,rock,
+G6,5,0,21,TS,10.60471/ODP00007Y
+G6,5,1,23-43 cm,rock,
+G6,5,1,43-60 cm,rock,
+G6,5,1,50-70 cm,rock,
+G6,5,1,60 cm-bottom,rock,
+G6,5,1,70 cm-bottom,rock,
+G6,5,1,81,rock,
+G6,5,1,Unknown Location,rock,
+G6,5,1,Unknown Location,rock,
+G6,5,1,Unknown Location,rock,
+G6,5,1,Bottom of Section,rock,
+G6,5,1,Bottom of Section,rock,
+G6,6,1,Top of Section,rock,
+G6,6,1,20-25 cm,rock,
+G6,6,3,20-25 cm,TS billets,
+G6,6,1,22,rock,
+G6,6,0,30,TS,10.60471/ODP00007Z
+G6,6,0,32,TS,10.60471/ODP00008A
+G6,6,1,68,rock,

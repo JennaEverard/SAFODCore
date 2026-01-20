@@ -1,0 +1,78 @@
+﻿ID,Section,top_m,bottom_m,top_ft,bottom_ft,lith,name,img_path,IGSN
+C1,1,1462.43,1463.04,4798,4800,-,Hole C Run 1 Section 1,images/Hole C/C11.jpg,10.60471/ODP00000F
+C1,2,1463.04,1463.9544,4800,4803,-,Hole C Run 1 Section 2,images/Hole C/C12.jpg,10.60471/ODP00000G
+C2,3,1463.95,1464.87,4803,4806,-,Hole C Run 2 Section 3,images/Hole C/C23.jpg,10.60471/ODP00000H
+C2,4,1465.48,1465.78,4808,4809,-,Hole C Run 2 Section 4,images/Hole C/C24.jpg,10.60471/ODP00000I
+C2,5,1465.78,1466.69,4809,4812,-,Hole C Run 2 Section 5,images/Hole C/C25.jpg,10.60471/ODP00000J
+C2,6,1466.69,1467.61,4812,4815,-,Hole C Run 2 Section 6,images/Hole C/C26.jpg,10.60471/ODP00000K
+C3,7,1467.61,1468.17,4815,4816.83,-,Hole C Run 3 Section 7,images/Hole C/C37.jpg,10.60471/ODP00000L
+C3,8,1468.22,1468.53,4817,4818,-,Hole C Run 3 Section 8,images/Hole C/C38.jpg,10.60471/ODP00000M
+C3,9,-,-,-,-,-,Hole C Run 3 Section 9,images/Hole C/C39.jpg,10.60471/ODP00000N
+CCC,-,-,-,-,-,-,"Hole C Run 1, 2, 3 Section Core Catcher",images/Hole C/CCC.jpg,10.60471/ODP00000O
+C4,10,3055.62,3056.53,10025,10028,-,Hole C Run 4 Section 10,images/Hole C/C410.jpg,10.60471/ODP00000P
+C4,11,3056.53,3057.45,10028,10031,-,Hole C Run 4 Section 11,images/Hole C/C411.jpg,10.60471/ODP00000Q
+C4,12,3057.45,3058.36,10031,10034,-,Hole C Run 4 Section 12,images/Hole C/C412.jpg,10.60471/ODP00000R
+C4,13,3058.36,3059.28,10034,10037,-,Hole C Run 4 Section 13,images/Hole C/C413.jpg,10.60471/ODP00000S
+C4,14,3059.28,3060.19,10037,10040,-,Hole C Run 4 Section 14,images/Hole C/C414.jpg,10.60471/ODP00000T
+C4,15,3060.19,3061.11,10040,10043,-,Hole C Run 4 Section 15,images/Hole C/C415.jpg,10.60471/ODP00000U
+C4,16,3061.11,3062.02,10043,10046,-,Hole C Run 4 Section 16,images/Hole C/C416.jpg,10.60471/ODP00000V
+C4,17,3062.02,3062.94,10046,10049,-,Hole C Run 4 Section 17,images/Hole C/C417.jpg,10.60471/ODP00000W
+C4,18,3062.94,3063.85,10049,10052,-,Hole C Run 4 Section 18,images/Hole C/C418.jpg,10.60471/ODP00000X
+C4,19 and 20,3063.85,3064.76,10052,10055,-,Hole C Run 4 Section 19/20,images/Hole C/C419_20.jpg,10.60471/ODP00000Y
+C5,21,-,-,-,-,-,Hole C Run 5 Section 21,images/Hole C/C521.jpg,10.60471/ODP00000Z
+C5,22,-,-,-,-,-,Hole C Run 5 Section 22,images/Hole C/C522.jpg,10.60471/ODP00001A
+C7,1,3989.85,3990.67,13090.06,13092.75,-,Hole C Run 7 Section 1,images/Hole C/C71.jpg,10.60471/ODP00001B
+C7,2,3990.67,3991.58,13092.75,13095.73,-,Hole C Run 7 Section 2,images/Hole C/C72.jpg,10.60471/ODP00001C
+C7,3,3991.58,3992.51,13095.73,13098.79,-,Hole C Run 7 Section 3,images/Hole C/C73.jpg,10.60471/ODP00001D
+C7,4,3992.51,3993.17,13098.79,13100.95,-,Hole C Run 7 Section 4,images/Hole C/C74.jpg,10.60471/ODP00001E
+C7,CC,3993.17,3997.62,13100.95,13115.55,-,Hole C Run 7 Section 5,images/Hole C/C7CC.jpg,10.60471/ODP00001F
+E1,1,3141.43,3142.33,10306.53,10309.48,Arkosic sandstone,Hole E Run 1 Section 1,images/Hole E/E11.jpg,10.60471/ODP00001G
+E1,2,3142.33,3143.21,10309.48,10312.37,Arkosic sandstone,Hole E Run 1 Section 2,images/Hole E/E12.jpg,10.60471/ODP00001H
+E1,3,3143.21,3144.1,10312.37,10315.29,Arkosic sandstone,Hole E Run 1 Section 3,,10.60471/ODP00001I
+E1,4,3144.1,3145.01,10315.29,10318.27,Arkosic sandstone -> shale & siltstone,Hole E Run 1 Section 4,images/Hole E/E14.jpg,10.60471/ODP00001J
+E1,5,3145,3145.9,10318.24,10321.19,Shale & siltstone,Hole E Run 1 Section 5,images/Hole E/E15.jpg,10.60471/ODP00001K
+E1,6,3145.9,3146.82,10321.19,10324.21,Sandstone,Hole E Run 1 Section 6,images/Hole E/E16.jpg,10.60471/ODP00001L
+E1,7,3146.82,3147.72,10324.21,10327.17,Sandstone,Hole E Run 1 Section 7,images/Hole E/E17.jpg,10.60471/ODP00001M
+E1,8,3147.72,3148.31,10327.17,10329.1,Sandstone,Hole E Run 1 Section 8,images/Hole E/E18.jpg,10.60471/ODP00001N
+E2,1,3148.66,3149.52,10330.25,10333.07,Sandstone,Hole E Run 2 Section 1,images/Hole E/E21.jpg,10.60471/ODP00001O
+E2,2,3149.52,3150.41,10333.07,10335.99,Sandstone,Hole E Run 2 Section 2,images/Hole E/E22.jpg,10.60471/ODP00001P
+E2,3,3150.41,3151.31,10335.99,10338.94,Sandstone,Hole E Run 2 Section 3,images/Hole E/E23.jpg,10.60471/ODP00001Q
+E2,4,3151.31,3152.2,10338.94,10341.86,Sandstone,Hole E Run 2 Section 4,images/Hole E/E24.jpg,10.60471/ODP00001R
+E2,5 and 6,3152.2,3152.5,10341.86,10342.85,Sandstone,Hole E Run 2 Section 5 & 6,images/Hole E/E25_6.jpg,10.60471/ODP00001S
+G1,1,3186.69,3187.47,10455.02,10457.58,Foliated siltstone-shale,Hole G Run 1 Section 1,images/Hole G/G11.jpg,10.60471/ODP00001T
+G1,2,3187.47,3188.35,10457.58,10460.47,Foliated siltstone-shale,Hole G Run 1 Section 2,images/Hole G/G12.jpg,10.60471/ODP00001U
+G1,3,3188.35,3189.25,10460.47,10463.42,Foliated siltstone-shale,Hole G Run 1 Section 3,images/Hole G/G13.jpg,10.60471/ODP00001V
+G1,4,3189.25,3190.13,10463.42,10466.31,Foliated siltstone-shale,Hole G Run 1 Section 4,images/Hole G/G14.jpg,10.60471/ODP00001W
+G1,5,3190.13,3190.64,10466.31,10467.98,Foliated siltstone-shale,Hole G Run 1 Section 5,images/Hole G/G15.jpg,10.60471/ODP00001X
+G1,6,3190.64,3191.12,10467.98,10469.55,Foliated siltstone-shale,Hole G Run 1 Section 6,images/Hole G/G16.jpg,10.60471/ODP00001Y
+G2,1,3191.05,3191.9,10469.32,10472.11,Foliated siltstone-shale,Hole G Run 2 Section 1,images/Hole G/G21.jpg,10.60471/ODP00001Z
+G2,2,3191.9,3192.79,10472.11,10475.03,Foliated siltstone-shale,Hole G Run 2 Section 2,images/Hole G/G22.jpg,10.60471/ODP00002A
+G2,3,3192.79,3193.68,10475.03,10477.95,Foliated siltstone-shale,Hole G Run 2 Section 3,images/Hole G/G23.jpg,10.60471/ODP00002B
+G2,4,3193.68,3194.57,10477.95,10480.87,Foliated siltstone-shale -> Black Fault Rock,Hole G Run 2 Section 4,images/Hole G/G24.jpg,10.60471/ODP00002C
+G2,5,3194.57,3195.46,10480.87,10483.79,Black Fault Rock,Hole G Run 2 Section 5,images/Hole G/G25.jpg,10.60471/ODP00002D
+G2,6,3195.46,3196.36,10483.79,10486.75,Fault Gouge (Southern Deforming Zone),Hole G Run 2 Section 6,images/Hole G/G26.jpg,10.60471/ODP00002E
+G2,7,3196.36,3197.25,10486.75,10489.67,Fault Gouge (Southern Deforming Zone),Hole G Run 2 Section 7,images/Hole G/G27.jpg,10.60471/ODP00002F
+G2,8,3197.25,3197.8,10489.67,10491.47,Fault Gouge (Southern Deforming Zone),Hole G Run 2 Section 8,images/Hole G/G28.jpg,10.60471/ODP00002G
+G2,9,3197.8,3198.24,10491.47,10492.91,Fault Gouge (Southern Deforming Zone),Hole G Run 2 Section 9,images/Hole G/G29.jpg,10.60471/ODP00002H
+G3,1,3198.28,3198.88,10493.04,10495.01,"Siltstone, mudstone, & shale",Hole G Run 3 Section 1,images/Hole G/G31.jpg,10.60471/ODP00002I
+G3,2,3198.88,3199.37,10495.01,10496.62,"Siltstone, mudstone, & shale",Hole G Run 3 Section 2,images/Hole G/G32.jpg,10.60471/ODP00002J
+G4,1,3294.9,3295.78,10810.04,10812.93,Siltstone,Hole G Run 4 Section 1,images/Hole G/G41.jpg,10.60471/ODP00002K
+G4,2,3295.78,3296.57,10812.93,10815.52,Siltstone -> Fault Gouge (Central Deforming Zone),Hole G Run 4 Section 2,images/Hole G/G42.jpg,10.60471/ODP00002L
+G4,3,3296.57,3297.43,10815.52,10818.34,Fault Gouge (Central Deforming Zone),Hole G Run 4 Section 3,images/Hole G/G43.jpg,10.60471/ODP00002M
+G4,4,3297.43,3298.32,10818.34,10821.26,Fault Gouge (Central Deforming Zone),Hole G Run 4 Section 4,images/Hole G/G44.jpg,10.60471/ODP00002N
+G4,5,3298.32,3299.15,10821.26,10823.98,Fault Gouge (Central Deforming Zone),Hole G Run 4 Section 5,images/Hole G/G45.jpg,10.60471/ODP00002O
+G4,6,3299.15,3299.71,10823.98,10825.82,Sheared silstone and mudstone,Hole G Run 4 Section 6,images/Hole G/G46.jpg,10.60471/ODP00002P
+G4,7,3299.71,3300.2,10825.82,10827.43,Sheared silstone and mudstone,Hole G Run 4 Section 7,images/Hole G/G47.jpg,10.60471/ODP00002Q
+G5,1,3300.39,3301.27,10828.05,10830.94,Sheared silstone and mudstone,Hole G Run 5 Section 1,images/Hole G/G51.jpg,10.60471/ODP00002R
+G5,2,3301.27,3302.15,10830.94,10833.83,Sheared silstone and mudstone -> Silstone & sandstone,Hole G Run 5 Section 2,images/Hole G/G52.jpg,10.60471/ODP00002S
+G5,3,3302.15,3303.04,10833.83,10836.75,Silstone & sandstone,Hole G Run 5 Section 3,images/Hole G/G53.jpg,10.60471/ODP00002T
+G5,4,3303.04,3303.93,10836.75,10839.67,Silstone & sandstone -> sheared/fractured siltstone,Hole G Run 5 Section 4,images/Hole G/G54.jpg,10.60471/ODP00002U
+G5,5,3303.93,3304.82,10839.67,10842.59,sheared/fractured siltstone,Hole G Run 5 Section 5,images/Hole G/G55.jpg,10.60471/ODP00002V
+G5,6,3304.8,3305.45,10842.52,10844.65,sheared/fractured siltstone,Hole G Run 5 Section 6,images/Hole G/G56.jpg,10.60471/ODP00002W
+G5,7,3305.46,3305.93,10844.69,10846.23,sheared/fractured siltstone,Hole G Run 5 Section 7,images/Hole G/G57.jpg,10.60471/ODP00002X
+G6,1,3307.4,3308.27,10851.05,10853.9,"sheared/fractured claystone, mudstone, & siltstone",Hole G Run 6 Section 1,images/Hole G/G61.jpg,10.60471/ODP00002Y
+G6,2,3308.27,3309.16,10853.9,10856.82,"sheared/fractured claystone, mudstone, & siltstone",Hole G Run 6 Section 2,images/Hole G/G62.jpg,10.60471/ODP00002Z
+G6,3,3309.16,3310.03,10856.82,10859.68,"sheared/fractured claystone, mudstone, & siltstone",Hole G Run 6 Section 3,images/Hole G/G63.jpg,10.60471/ODP00003A
+G6,4,3310.03,3310.89,10859.68,10862.5,"sheared/fractured claystone, mudstone, & siltstone",Hole G Run 6 Section 4,images/Hole G/G64.jpg,10.60471/ODP00003B
+G6,5,3310.89,3311.78,10862.5,10865.42,sheared claystone/mudstone gouge,Hole G Run 6 Section 5,images/Hole G/G65.jpg,10.60471/ODP00003C
+G6,6,3311.78,3312.7,10865.42,10868.44,sheared claystone/mudstone gouge,Hole G Run 6 Section 6,images/Hole G/G66.jpg,10.60471/ODP00003D
